@@ -4,7 +4,7 @@ Claude Code用カスタムスキル集です。
 
 ## スキル一覧
 
-### [chouseisan-poll](./skills/chouseisan-poll/)
+### [chouseisan-poll](./chouseisan-poll/)
 
 調整さん（https://chouseisan.com）でブラウザ操作により出欠調整イベントを自動作成するスキル。
 
@@ -23,7 +23,7 @@ Claude Code用カスタムスキル集です。
 
 ```bash
 # 例: chouseisan-poll をプロジェクトに追加
-cp -r skills/chouseisan-poll /path/to/your-project/.claude/skills/
+cp -r chouseisan-poll /path/to/your-project/.claude/skills/
 ```
 
 ## 前提条件
